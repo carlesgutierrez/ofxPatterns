@@ -1,0 +1,28 @@
+<install>
+	
+	<version>0.08</version>
+	<author>Stjepan Rajko</author>
+	<author>Dhi Aurrahman</author>
+	<author>David Burri</author>
+	<author>Arif Setiawan</author>    
+	<url>http://ame4.hc.asu.edu/amelia/patterns/</url>
+	
+	
+	<add>
+
+		<!-- 	=====================================================================	-->
+		<!--	========================== add per project using this addon =========	-->
+		<!-- 	=====================================================================	-->
+			
+		<include>
+			<path>../../../addons/ofxPatterns/src/</path>
+		</include>
+		
+   		<link>
+			<lib os="mac"   compiler="xcode">../../../addons/ofxPatterns/libs/ofxPatterns/lib/osx/libofxPatterns.a</lib>
+			<lib os="mac"   compiler="xcode">../../../addons/ofxPatterns/libs/ofxPatterns/lib/osx/libboost_serialization.a</lib>
+		</link>
+
+	</add>
+	 
+</install>

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn-shoppingwindow/!svn/ver/172/LaserRangeNetworkv1.0/src/ofxPatterns/src
+END
+ofxVectorGestureClassification.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn-shoppingwindow/!svn/ver/172/LaserRangeNetworkv1.0/src/ofxPatterns/src/ofxVectorGestureClassification.h
+END
+ofxPatternRecognition.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn-shoppingwindow/!svn/ver/172/LaserRangeNetworkv1.0/src/ofxPatterns/src/ofxPatternRecognition.h
+END
+ofxVectorGestureRecognition.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn-shoppingwindow/!svn/ver/172/LaserRangeNetworkv1.0/src/ofxPatterns/src/ofxVectorGestureRecognition.h
+END
+ofxMouseGestureClassification.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn-shoppingwindow/!svn/ver/172/LaserRangeNetworkv1.0/src/ofxPatterns/src/ofxMouseGestureClassification.h
+END
+ofxSpeechClassification.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn-shoppingwindow/!svn/ver/172/LaserRangeNetworkv1.0/src/ofxPatterns/src/ofxSpeechClassification.h
+END
+ofxPatternClassification.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn-shoppingwindow/!svn/ver/172/LaserRangeNetworkv1.0/src/ofxPatterns/src/ofxPatternClassification.h
+END
